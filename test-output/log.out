@@ -1,0 +1,93 @@
+[main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 20 November 2022 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sat, Aug 20, 2022
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 20 November 2022 
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sat, Aug 20, 2022
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 20 November 2022 
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Calender Launch Failed
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Calender Launch Failed
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sat, Aug 20, 2022
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set Friday
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set 9:30 AM
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set 1:30 PM
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 20 November 2022 
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sat, Aug 20, 2022
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set Friday
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set 9:30 AM
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set 1:30 PM
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 20 November 2022 
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sat, Aug 20, 2022
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set Friday
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set 9:30 AM
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Set 1:30 PM
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-20
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 20 November 2022 
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Metting Saved
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Calender Launch Failed
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Enter worskshop Title Failed
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - Invite People
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - More Option for Meeting
+  [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Meeting Occurrence Failed
+  

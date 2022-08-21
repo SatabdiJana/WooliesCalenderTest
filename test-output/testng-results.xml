@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="261891" started-at="2022-08-20T23:24:34 AEST" finished-at="2022-08-20T23:28:56 AEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="261891" started-at="2022-08-20T23:24:34 AEST" finished-at="2022-08-20T23:28:56 AEST">
+      <class name="com.woolies.TestCase.CalenderMeetTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="setup" is-config="true" duration-ms="6057" started-at="2022-08-20T23:24:34 AEST" finished-at="2022-08-20T23:24:40 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_Calender_Launch()[pri:1, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Calender_Launch" duration-ms="53311" started-at="2022-08-20T23:24:40 AEST" finished-at="2022-08-20T23:25:34 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Calender_Launch -->
+        <test-method status="PASS" signature="Test_WorkShop_Title()[pri:2, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_WorkShop_Title" duration-ms="50542" started-at="2022-08-20T23:25:34 AEST" finished-at="2022-08-20T23:26:24 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_WorkShop_Title -->
+        <test-method status="PASS" signature="Test_Set_FridayMeet()[pri:3, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Set_FridayMeet" duration-ms="50342" started-at="2022-08-20T23:26:24 AEST" finished-at="2022-08-20T23:27:15 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Set_FridayMeet -->
+        <test-method status="PASS" signature="Test_Invite_People(java.lang.String)[pri:4, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Invite_People" duration-ms="50391" started-at="2022-08-20T23:27:15 AEST" data-provider="test-data" finished-at="2022-08-20T23:28:05 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Satabdi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Invite_People -->
+        <test-method status="PASS" signature="Test_Repeat_Meeting_Occurrence()[pri:5, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Repeat_Meeting_Occurrence" duration-ms="50779" started-at="2022-08-20T23:28:05 AEST" finished-at="2022-08-20T23:28:56 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Repeat_Meeting_Occurrence -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="teardown" is-config="true" duration-ms="430" started-at="2022-08-20T23:28:56 AEST" finished-at="2022-08-20T23:28:56 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.woolies.TestCase.CalenderMeetTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
