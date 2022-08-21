@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.woolies.TestCase.CalenderMeetTest"/>
+      <class name="com.woolies.TestCase.WorkshopMeetTest"/>
+      <class name="com.woolies.TestCase.StandUpMeetTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

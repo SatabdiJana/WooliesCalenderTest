@@ -1,5 +1,6 @@
 package com.woolies.Pages;
 
+import java.time.DayOfWeek;
 import java.util.List;
 
 import org.apache.log4j.Logger;
@@ -98,9 +99,11 @@ public class CalendarPage {
 		return selectNextMonth;
 	}
 
-	public WebElement getFridayDateElement() {
+	public WebElement getMeetStartDateElement(DayOfWeek dayOfWeek) {
 		return webDriver.findElement(
-				By.xpath("//android.view.View[@content-desc=\"" + DateUtil.pickFromattedFridayDate().trim() + "\"]"));
+				By.xpath("//android.view.View[@content-desc=\"" 
+		+ DateUtil.pickFromattedMeetDate(dayOfWeek).trim()
+		+ "\"]"));
 	}
 
 	public WebElement getButtonOKOnMonthElement() {

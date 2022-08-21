@@ -21,13 +21,13 @@ public class BaseTest {
 	public WebDriver driver;
 	public CalendarPage calendarPage;
 	private DesiredCapabilities capabilities = new DesiredCapabilities();
-	private ReadConfig readConfig = new ReadConfig();
+	protected ReadConfig readConfig = new ReadConfig();
 	private String platformName = readConfig.getPlatformName();
 	private String deviceName = readConfig.getDeviceName();
 	private String appPackageName = readConfig.getAppPackageName();
 	private String appActivityName = readConfig.appActivityName();
 	private String driverURL = readConfig.driverUrl();
-	protected String workshopTitle = readConfig.WorkshopTitle();
+//	protected String workshopTitle = readConfig.WorkshopTitle();
  
 	@DataProvider(name = "test-data")
 	public static Object[] invitePeopleList() {
@@ -64,17 +64,4 @@ public class BaseTest {
 	public void teardown() {
 		driver.quit();
 	}
-	
-	protected void setTime(String hours, String minutes, boolean anteMeridiem) {
-		calendarPage.getHoursOrMinuteElement(hours).click();
-		calendarPage.getHoursOrMinuteElement(minutes).click();
-
-		if (anteMeridiem) {
-			calendarPage.getMeridiemAMElement().click();
-		} else {
-			calendarPage.getMeridiemPMElement().click();
-		}
-
-		calendarPage.getButtonOKOnMonthElement().click();
-	}	
 }

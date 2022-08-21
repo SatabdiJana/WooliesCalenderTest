@@ -1,6 +1,7 @@
 package com.woolies.Utility;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
 import java.io.File;
@@ -13,7 +14,8 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
 public class Screenshots {
-	public static void takeSnapShot(WebDriver driver) throws Exception {
+	private static Logger LOG = Logger.getLogger(Screenshots.class);
+	public static void takeSnapShot(WebDriver driver) {
 
 		DateFormat dateFormat = new SimpleDateFormat("dd-mm-yyyy h-m-s");
 		Date date = new Date();
@@ -30,8 +32,13 @@ public class Screenshots {
 		File DestFile = new File(System.getProperty("user.dir") + "\\test-output\\screenshot\\" + "Error-" + dateFormat.format(date) + ".png");
         
 		// Copy file at destination
-
-		FileUtils.copyFile(SrcFile, DestFile);
+		
+		try {
+			FileUtils.copyFile(SrcFile, DestFile);
+		} catch (Exception e) {
+			LOG.error("Exception occurred while copying files");
+		}
+		
 
 	}
 
