@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="261891" started-at="2022-08-20T23:24:34 AEST" finished-at="2022-08-20T23:28:56 AEST">
+  <suite name="Suite" duration-ms="75078" started-at="2022-08-21T22:33:14 AEST" finished-at="2022-08-21T22:34:29 AEST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="261891" started-at="2022-08-20T23:24:34 AEST" finished-at="2022-08-20T23:28:56 AEST">
-      <class name="com.woolies.TestCase.CalenderMeetTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="setup" is-config="true" duration-ms="6057" started-at="2022-08-20T23:24:34 AEST" finished-at="2022-08-20T23:24:40 AEST">
+    <test name="Test" duration-ms="75078" started-at="2022-08-21T22:33:14 AEST" finished-at="2022-08-21T22:34:29 AEST">
+      <class name="com.woolies.TestCase.StandUpMeetTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.woolies.TestCase.StandUpMeetTest@e50a6f6]" name="setup" is-config="true" duration-ms="7226" started-at="2022-08-21T22:33:53 AEST" finished-at="2022-08-21T22:34:00 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Test_Calender_Launch()[pri:1, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Calender_Launch" duration-ms="53311" started-at="2022-08-20T23:24:40 AEST" finished-at="2022-08-20T23:25:34 AEST">
+        <test-method status="PASS" signature="Test_Calender_Launch()[pri:1, instance:com.woolies.TestCase.StandUpMeetTest@e50a6f6]" name="Test_Calender_Launch" duration-ms="7018" started-at="2022-08-21T22:34:00 AEST" finished-at="2022-08-21T22:34:07 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Calender_Launch -->
-        <test-method status="PASS" signature="Test_WorkShop_Title()[pri:2, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_WorkShop_Title" duration-ms="50542" started-at="2022-08-20T23:25:34 AEST" finished-at="2022-08-20T23:26:24 AEST">
+        <test-method status="PASS" signature="Test_WorkShop_Title()[pri:2, instance:com.woolies.TestCase.StandUpMeetTest@e50a6f6]" name="Test_WorkShop_Title" duration-ms="3889" started-at="2022-08-21T22:34:07 AEST" finished-at="2022-08-21T22:34:11 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_WorkShop_Title -->
-        <test-method status="PASS" signature="Test_Set_FridayMeet()[pri:3, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Set_FridayMeet" duration-ms="50342" started-at="2022-08-20T23:26:24 AEST" finished-at="2022-08-20T23:27:15 AEST">
+        <test-method status="PASS" signature="Test_Set_FridayMeet()[pri:3, instance:com.woolies.TestCase.StandUpMeetTest@e50a6f6]" name="Test_Set_FridayMeet" duration-ms="8098" started-at="2022-08-21T22:34:11 AEST" finished-at="2022-08-21T22:34:19 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Set_FridayMeet -->
-        <test-method status="PASS" signature="Test_Invite_People(java.lang.String)[pri:4, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Invite_People" duration-ms="50391" started-at="2022-08-20T23:27:15 AEST" data-provider="test-data" finished-at="2022-08-20T23:28:05 AEST">
+        <test-method status="PASS" signature="Test_Invite_People(java.lang.String)[pri:4, instance:com.woolies.TestCase.StandUpMeetTest@e50a6f6]" name="Test_Invite_People" duration-ms="1697" started-at="2022-08-21T22:34:19 AEST" data-provider="test-data" finished-at="2022-08-21T22:34:20 AEST">
           <params>
             <param index="0">
               <value>
@@ -34,15 +34,52 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Invite_People -->
-        <test-method status="PASS" signature="Test_Repeat_Meeting_Occurrence()[pri:5, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="Test_Repeat_Meeting_Occurrence" duration-ms="50779" started-at="2022-08-20T23:28:05 AEST" finished-at="2022-08-20T23:28:56 AEST">
+        <test-method status="PASS" signature="Test_Repeat_Meeting_Occurrence()[pri:5, instance:com.woolies.TestCase.StandUpMeetTest@e50a6f6]" name="Test_Repeat_Meeting_Occurrence" duration-ms="8490" started-at="2022-08-21T22:34:20 AEST" finished-at="2022-08-21T22:34:29 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Repeat_Meeting_Occurrence -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.woolies.TestCase.CalenderMeetTest@5af97850]" name="teardown" is-config="true" duration-ms="430" started-at="2022-08-20T23:28:56 AEST" finished-at="2022-08-20T23:28:56 AEST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.woolies.TestCase.StandUpMeetTest@e50a6f6]" name="teardown" is-config="true" duration-ms="346" started-at="2022-08-21T22:34:29 AEST" finished-at="2022-08-21T22:34:29 AEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- com.woolies.TestCase.CalenderMeetTest -->
+      </class> <!-- com.woolies.TestCase.StandUpMeetTest -->
+      <class name="com.woolies.TestCase.WorkshopMeetTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.woolies.TestCase.WorkshopMeetTest@16aa0a0a]" name="setup" is-config="true" duration-ms="8309" started-at="2022-08-21T22:33:14 AEST" finished-at="2022-08-21T22:33:23 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_Calender_Launch()[pri:1, instance:com.woolies.TestCase.WorkshopMeetTest@16aa0a0a]" name="Test_Calender_Launch" duration-ms="6914" started-at="2022-08-21T22:33:23 AEST" finished-at="2022-08-21T22:33:29 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Calender_Launch -->
+        <test-method status="PASS" signature="Test_WorkShop_Title()[pri:2, instance:com.woolies.TestCase.WorkshopMeetTest@16aa0a0a]" name="Test_WorkShop_Title" duration-ms="4080" started-at="2022-08-21T22:33:29 AEST" finished-at="2022-08-21T22:33:34 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_WorkShop_Title -->
+        <test-method status="PASS" signature="Test_Set_FridayMeet()[pri:3, instance:com.woolies.TestCase.WorkshopMeetTest@16aa0a0a]" name="Test_Set_FridayMeet" duration-ms="7625" started-at="2022-08-21T22:33:34 AEST" finished-at="2022-08-21T22:33:41 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Set_FridayMeet -->
+        <test-method status="PASS" signature="Test_Invite_People(java.lang.String)[pri:4, instance:com.woolies.TestCase.WorkshopMeetTest@16aa0a0a]" name="Test_Invite_People" duration-ms="2249" started-at="2022-08-21T22:33:41 AEST" data-provider="test-data" finished-at="2022-08-21T22:33:43 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Satabdi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Invite_People -->
+        <test-method status="PASS" signature="Test_Repeat_Meeting_Occurrence()[pri:5, instance:com.woolies.TestCase.WorkshopMeetTest@16aa0a0a]" name="Test_Repeat_Meeting_Occurrence" duration-ms="8627" started-at="2022-08-21T22:33:43 AEST" finished-at="2022-08-21T22:33:52 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Repeat_Meeting_Occurrence -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.woolies.TestCase.WorkshopMeetTest@16aa0a0a]" name="teardown" is-config="true" duration-ms="422" started-at="2022-08-21T22:33:52 AEST" finished-at="2022-08-21T22:33:53 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.woolies.TestCase.WorkshopMeetTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -9,53 +9,64 @@ import org.apache.log4j.Logger;
 public class ReadConfig {
 
 	private static Logger log = Logger.getLogger(ReadConfig.class);
-	Properties pro;
+	private Properties properties;
 
 	public ReadConfig() {
-		File src = new File("./Configurations\\config.properties");
-
 		try {
+			File src = new File("./Configurations\\config.properties");
 			FileInputStream fis = new FileInputStream(src);
-			pro = new Properties();
-			pro.load(fis);
+			properties = new Properties();
+			properties.load(fis);
 		} catch (Exception e) {
 			log.error("Exception is" + e.getMessage());
 		}
 	}
 
 	public String getPlatformName() {
-		return pro.getProperty("PlatformName");
+		return properties.getProperty("PlatformName");
 	}
 
 	public String getDeviceName() {
-		return pro.getProperty("DEVICENAME");
+		return properties.getProperty("DEVICENAME");
 	}
 
 	public String getAppPackageName() {
-		return pro.getProperty("appPackage");
+		return properties.getProperty("appPackage");
 	}
 
 	public String appActivityName() {
-		return pro.getProperty("APPACTIVITY");
+		return properties.getProperty("APPACTIVITY");
 	}
 
 	public String driverUrl() {
-		return pro.getProperty("DriverUrl");
+		return properties.getProperty("DriverUrl");
 	}
 
-	public String WorkshopTitle() {
-		return pro.getProperty("WorkshopTitle");
+	public String workshopTitle() {
+		return properties.getProperty("WorkshopTitle");
 	}
 
 	public String workShopDay() {
-		return pro.getProperty("WorkShopDay");
+		return properties.getProperty("WorkShopDay");
 	}
 
 	public String workShopStartTime() {
-		return pro.getProperty("WorkShopStartTime");
+		return properties.getProperty("WorkShopStartTime");
 	}
 
 	public String workShopEndTime() {
-		return pro.getProperty("WorkShopEndTime");
+		return properties.getProperty("WorkShopEndTime");
+	}
+	
+	public String standUpMeetTitle() {
+		return properties.getProperty("StandUpTitle");
+	}
+	
+	public String standUpStartTime() {
+		return properties.getProperty("StandUpStartTime");
+	}
+
+	public String standUpEndTime() {
+		return properties.getProperty("StandUpEndTime");
 	}
 }

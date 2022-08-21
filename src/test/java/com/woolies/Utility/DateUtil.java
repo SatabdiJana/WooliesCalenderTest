@@ -13,16 +13,16 @@ public class DateUtil {
 	
 	private static final DateTimeFormatter formattedDate = DateTimeFormatter.ofPattern("dd MMMM yyyy ");
 
-	public static String pickFromattedFridayDate() {
+	public static String pickFromattedMeetDate(DayOfWeek dayOfWeek) {
 		LocalDate dateToday = LocalDate.now();
 
 		log.debug("before " + dateToday);
 
-		LocalDate fridayDate = dateToday.with(TemporalAdjusters.next(DayOfWeek.FRIDAY));
-		String formattedFridayDate = fridayDate.format(formattedDate);
-		log.debug("after " + formattedFridayDate);
+		LocalDate meetDate = dateToday.with(TemporalAdjusters.next(dayOfWeek));
+		String formattedMeetDate = meetDate.format(formattedDate);
+		log.debug("after " + formattedMeetDate);
 
-		return formattedFridayDate;
+		return formattedMeetDate;
 	}
 
 	public static String pickDateWithThreeMonthsFromNow() {
@@ -37,14 +37,14 @@ public class DateUtil {
 		return formattedDateThreeMonthsFromToday;
 	}
 
-	public static boolean isThereAFridayWithInThisMonth() {
+	public static boolean isGivenDayWithInThisMonth(DayOfWeek dayOfWeek) {
 		// Get current date
 		LocalDate dateToday = LocalDate.now();
 
 		// Find the next Friday
-		LocalDate nextFridayDate = dateToday.with(TemporalAdjusters.next(DayOfWeek.FRIDAY));
+		LocalDate nextGivenDayDate = dateToday.with(TemporalAdjusters.next(dayOfWeek));
 
-		// Test if its within same date
-		return dateToday.getMonthValue() == nextFridayDate.getMonthValue();
-	}
+		// Test if its within same month
+		return dateToday.getMonthValue() == nextGivenDayDate.getMonthValue();
+	}	
 }

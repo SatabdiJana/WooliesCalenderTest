@@ -90,4 +90,276 @@
   [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Enter worskshop Title Failed
   [main] DEBUG com.woolies.TestCase.CalenderMeetTest  - More Option for Meeting
   [main] ERROR com.woolies.TestCase.CalenderMeetTest  - Meeting Occurrence Failed
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.StandUpMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.StandUpMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.StandUpMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - In Read Config start 9.30.AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - [Ljava.lang.String;@10f7f7de
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - In Read Config start 1.30.PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - [Ljava.lang.String;@73a8da0f
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - In Read Config start 9.30.AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - [Ljava.lang.String;@68f1b17f
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - In Read Config start 1.30.PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - [Ljava.lang.String;@1722011b
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - In Read Config start 9.30.AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - In Read Config start 1.30.PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - [Ljava.lang.String;@1722011b
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sun, Aug 21, 2022
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set FRIDAY
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 9:30AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 1:30PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sun, Aug 21, 2022
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set FRIDAY
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 9:30AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 1:30PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sun, Aug 21, 2022
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set FRIDAY
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 9:30AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - startMeridiem.toLowerCase() :am
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 1:30PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sun, Aug 21, 2022
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set FRIDAY
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 9:30AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 1:30PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.WorkshopMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sun, Aug 21, 2022
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set FRIDAY
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 26 August 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 9:30AM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Set 1:30PM
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.WorkshopMeetTest  - Metting Saved
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - 
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Get Title Element
+  [main] ERROR com.woolies.TestCase.StandUpMeetTest  - Enter worskshop Title Failed
+  [main] DEBUG com.woolies.Pages.CalendarPage  - Sun, Aug 21, 2022
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Set MONDAY
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 22 August 2022 
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Set 9:30AM
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Set 9:45AM
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Invite People
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - More Option for Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Repeat the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Custom the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - To set the Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Enddate of the Meeting
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - SelectEnd and Chage Date
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Select three month date from now
+  [main] DEBUG com.woolies.Utility.DateUtil  - before 2022-08-21
+  [main] DEBUG com.woolies.Utility.DateUtil  - after 21 November 2022 
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting setup Done
+  [main] DEBUG com.woolies.TestCase.StandUpMeetTest  - Metting Saved
   
