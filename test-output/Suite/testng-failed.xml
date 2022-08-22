@@ -3,10 +3,25 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
+      <class name="com.woolies.TestCase.StandUpMeetTest">
+        <methods>
+          <include name="Test_Calender_Launch"/>
+          <include name="Test_Set_StandUp_Meet"/>
+          <include name="Test_Invite_People_StandUp"/>
+          <include name="teardown"/>
+          <include name="Test_StandUp_Title"/>
+          <include name="Test_Repeat_Meeting_Occurrence_StandUp"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.woolies.TestCase.StandUpMeetTest -->
       <class name="com.woolies.TestCase.WorkshopMeetTest">
         <methods>
-          <include name="Test_Set_FridayMeet"/>
+          <include name="Test_WorkShop_Title"/>
+          <include name="Test_Repeat_Meeting_Occurrence_Workshop"/>
+          <include name="Test_Set_Workshop_Meet"/>
           <include name="teardown"/>
+          <include name="Test_Calender_Launch"/>
+          <include name="Test_Invite_People_Workshop"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.woolies.TestCase.WorkshopMeetTest -->
