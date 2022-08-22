@@ -27,7 +27,7 @@ class WorkshopMeetTest extends GeneralMeetTest {
 	}
 
 	@Test(priority = 3)
-	public void Test_Set_FridayMeet() {
+	public void Test_Set_Workshop_Meet() {
 		String[] startTime = readConfig.workShopStartTime().split("\\.");
 		String[] endTime = readConfig.workShopEndTime().split("\\.");
 		testCalendarConfig(DayOfWeek.FRIDAY, startTime[0] ,
@@ -36,12 +36,12 @@ class WorkshopMeetTest extends GeneralMeetTest {
 	}
 
 	@Test(dataProvider = "test-data", priority = 4)
-	public void Test_Invite_People(String peopleList) {
+	public void Test_Invite_People_Workshop(String peopleList) {
 		invitePeopleForMeet(peopleList, LOG);
 	}
 
 	@Test(priority = 5)
-	public void Test_Repeat_Meeting_Occurrence() {
+	public void Test_Repeat_Meeting_Occurrence_Workshop() {
 		setRepeatMeetingOccurrence(LOG);
 	}
 }
