@@ -47,7 +47,7 @@ public class GeneralMeetTest extends BaseTest {
 				log.debug("Move Next Month");
 				calendarPage.getNextMonthElement().click();
 			}
-			log.debug("Set " + dayOfWeek.name());
+			log.debug("Setting " + dayOfWeek.name());
 			calendarPage.getMeetStartDateElement(dayOfWeek).click();
 			calendarPage.getButtonOKOnMonthElement().click();
 			log.debug("Set " + startHour + ":" + startMinutes + startMeridiem );
